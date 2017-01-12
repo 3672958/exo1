@@ -1,2 +1,14 @@
 2) le répertoire .git a été crée
 
+4)Afficher le statut de la copie de travail
+	
+	et le fichier ne suis pas la règle
+
+5) dans les modifications validés on a notre nouveau fichier
+
+7)la copie de travail est propre
+
+8)l'historique des validations éffectuées
+
+9)git diff rajoute ce qui a été modifié depuis le add
+
